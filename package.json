@@ -1,0 +1,11 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "echo \"IMPORTANTE! Ejecuta el npm install en la carpeta del proyecto 'cd nombreproyecto' y después 'npm install' ;-)\" && exit 1"
+  },
+  "author": "@kaizendevar",
+  "license": "ISC"
+}
